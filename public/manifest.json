@@ -1,0 +1,20 @@
+{
+  "short_name": "LiMS",
+  "name": "Library Managament System",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes":"144x144",
+      "type":"image.png"
+    },
+    {
+      "src": "screen_icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#fff8dc",
+  "theme_color": "#614126"
+}
